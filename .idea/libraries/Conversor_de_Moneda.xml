@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Conversor-de-Moneda">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Conversor-de-Moneda.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
